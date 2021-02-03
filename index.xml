@@ -67,6 +67,15 @@ Link Room Composition Effects on Risk Taking by Gender</description>
     </item>
     
     <item>
+      <title>Concavity 1</title>
+      <link>https://gregleo-econ.github.io/workouts/concavity-1/</link>
+      <pubDate>Sat, 02 Jan 2021 00:00:00 -0600</pubDate>
+      
+      <guid>https://gregleo-econ.github.io/workouts/concavity-1/</guid>
+      <description>Welcome LaTeX formatted equation: \( E = -J \sum_{i=1}^N s_i s_{i+1} \)</description>
+    </item>
+    
+    <item>
       <title>My New Webpage</title>
       <link>https://gregleo-econ.github.io/posts/test-post/</link>
       <pubDate>Sat, 02 Jan 2021 00:00:00 -0600</pubDate>
