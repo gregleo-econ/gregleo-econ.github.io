@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Workouts on Greg Leo</title>
-    <link>https://gregleo-econ.github.io/workouts/</link>
+    <link>https://gregcleo.com/workouts/</link>
     <description>Recent content in Workouts on Greg Leo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 02 Jan 2021 00:00:00 -0600</lastBuildDate><atom:link href="https://gregleo-econ.github.io/workouts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 02 Jan 2021 00:00:00 -0600</lastBuildDate><atom:link href="https://gregcleo.com/workouts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>1.1</title>
-      <link>https://gregleo-econ.github.io/workouts/1_1/</link>
+      <link>https://gregcleo.com/workouts/1_1/</link>
       <pubDate>Sat, 02 Jan 2021 00:00:00 -0600</pubDate>
       
-      <guid>https://gregleo-econ.github.io/workouts/1_1/</guid>
+      <guid>https://gregcleo.com/workouts/1_1/</guid>
       <description>Prove \(\left(1+\frac{1}{x}\right)^{x}\) is monotone and concave on \(x\in\mathbb{R}_{&amp;gt;0}\).</description>
     </item>
     

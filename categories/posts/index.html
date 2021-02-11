@@ -8,20 +8,20 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="robots" content="all,follow">
     <meta name="googlebot" content="index,follow,snippet,archive">
-    <link rel="stylesheet" href="https://gregleo-econ.github.io/hugo-theme-console/css/terminal-0.7.1.min.css">
-    <link rel="stylesheet" href="https://gregleo-econ.github.io/hugo-theme-console/css/animate-3.7.2.min.css">
-    <link rel="stylesheet" href="https://gregleo-econ.github.io/hugo-theme-console/css/console.css">
+    <link rel="stylesheet" href="https://gregcleo.com/hugo-theme-console/css/terminal-0.7.1.min.css">
+    <link rel="stylesheet" href="https://gregcleo.com/hugo-theme-console/css/animate-3.7.2.min.css">
+    <link rel="stylesheet" href="https://gregcleo.com/hugo-theme-console/css/console.css">
     
       <!--[if lt IE 9]>
           <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
           <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
       <![endif]-->
        
-      <link href="https://gregleo-econ.github.io/categories/posts/index.xml" rel="alternate" type="application/rss+xml" title="Greg Leo" />
+      <link href="https://gregcleo.com/categories/posts/index.xml" rel="alternate" type="application/rss+xml" title="Greg Leo" />
     <meta property="og:title" content="posts" />
 <meta property="og:description" content="" />
 <meta property="og:type" content="website" />
-<meta property="og:url" content="https://gregleo-econ.github.io/categories/posts/" />
+<meta property="og:url" content="https://gregcleo.com/categories/posts/" />
 
 
 <meta name="twitter:title" content="posts"/>
@@ -35,8 +35,8 @@
             <div class="logo terminal-prompt">
               
               
-              <a href="https://gregleo-econ.github.io/" class="no-style ">Greg Leo</a>:~# 
-              <a href='https://gregleo-econ.github.io/categories'>categories</a>/<a href='https://gregleo-econ.github.io/categories/posts'>posts</a>/</div></header>
+              <a href="https://gregcleo.com/" class="no-style ">Greg Leo</a>:~# 
+              <a href='https://gregcleo.com/categories'>categories</a>/<a href='https://gregcleo.com/categories/posts'>posts</a>/</div></header>
           <nav class="terminal-menu">
             <ul vocab="https://schema.org/" typeof="BreadcrumbList">
                 
@@ -55,7 +55,7 @@
 
     
         <div class="post">
-                <a href="https://gregleo-econ.github.io/workouts/1_1/" title="1.1">1.1</a>
+                <a href="https://gregcleo.com/workouts/1_1/" title="1.1">1.1</a>
         </div>
     
 
@@ -64,10 +64,28 @@
 
         <div class="footer">
 Content Copyright 2021, Greg Leo. 
-</div>
-<script type="text/javascript"
-  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+<script>
+  MathJax = {
+    tex: {
+      inlineMath: [['$', '$'], ['\\(', '\\)']],
+      displayMath: [['$$','$$'], ['\\[', '\\]']],
+      processEscapes: true,
+      processEnvironments: true
+    },
+    options: {
+      skipHtmlTags: ['script', 'noscript', 'style', 'textarea', 'pre']
+    }
+  };
+
+  window.addEventListener('load', (event) => {
+      document.querySelectorAll("mjx-container").forEach(function(x){
+        x.parentElement.classList += 'has-jax'})
+    });
+
 </script>
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script type="text/javascript" id="MathJax-script" async
+  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
     </div>
   </body>
 </html>

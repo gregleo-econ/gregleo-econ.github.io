@@ -2,44 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Greg Leo</title>
-    <link>https://gregleo-econ.github.io/categories/</link>
+    <link>https://gregcleo.com/categories/</link>
     <description>Recent content in Categories on Greg Leo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Feb 2021 08:46:07 -0600</lastBuildDate><atom:link href="https://gregleo-econ.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 01 Feb 2021 08:46:07 -0600</lastBuildDate><atom:link href="https://gregcleo.com/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>papers</title>
-      <link>https://gregleo-econ.github.io/categories/papers/</link>
+      <link>https://gregcleo.com/categories/papers/</link>
       <pubDate>Mon, 01 Feb 2021 08:46:07 -0600</pubDate>
       
-      <guid>https://gregleo-econ.github.io/categories/papers/</guid>
+      <guid>https://gregcleo.com/categories/papers/</guid>
       <description></description>
     </item>
     
     <item>
       <title>teaching</title>
-      <link>https://gregleo-econ.github.io/categories/teaching/</link>
+      <link>https://gregcleo.com/categories/teaching/</link>
       <pubDate>Sun, 31 Jan 2021 21:46:17 -0600</pubDate>
       
-      <guid>https://gregleo-econ.github.io/categories/teaching/</guid>
+      <guid>https://gregcleo.com/categories/teaching/</guid>
       <description></description>
     </item>
     
     <item>
       <title>concavity</title>
-      <link>https://gregleo-econ.github.io/categories/concavity/</link>
+      <link>https://gregcleo.com/categories/concavity/</link>
       <pubDate>Sat, 02 Jan 2021 00:00:00 -0600</pubDate>
       
-      <guid>https://gregleo-econ.github.io/categories/concavity/</guid>
+      <guid>https://gregcleo.com/categories/concavity/</guid>
       <description></description>
     </item>
     
     <item>
       <title>posts</title>
-      <link>https://gregleo-econ.github.io/categories/posts/</link>
+      <link>https://gregcleo.com/categories/posts/</link>
       <pubDate>Sat, 02 Jan 2021 00:00:00 -0600</pubDate>
       
-      <guid>https://gregleo-econ.github.io/categories/posts/</guid>
+      <guid>https://gregcleo.com/categories/posts/</guid>
       <description></description>
     </item>
     
